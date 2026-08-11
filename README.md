@@ -10,20 +10,23 @@
 
 > **I tend to turn "What if?" into "Let's build it."**
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/sahilsalve">
-<img src="https://img.shields.io/badge/LinkedIn-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/sahilsalve9">
-<img src="https://img.shields.io/badge/LeetCode-6C2BD9?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LEETCODE-6C2BD9?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://github.com/sahil00salve-dotcom">
-<img src="https://img.shields.io/badge/GitHub-6C2BD9?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-6C2BD9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:sahil00salve@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/GMAIL-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+<a href="https://drive.google.com/file/d/1YKDl3Q0_x7UFbuLe8Y3ROUyocVfWJoYn/view?usp=sharing">
+<img src="https://img.shields.io/badge/RESUME-6C2BD9?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
 </div>
 
@@ -36,18 +39,29 @@
 
 <td width="55%">
 
-### 👨‍💻 Who I am
+### 👨‍💻 `whoami`
 
-I'm a **Java Full Stack Developer** who enjoys building things that are more than just projects for a resume.
+```text
+Java Full Stack Developer
+Backend-focused
+Problem Solver
+Builder
+```
 
-I like understanding **how things actually work** — from an API request reaching the database to the decisions behind a scalable system.
+I enjoy understanding **how systems actually work** — not just using frameworks.
 
-I'm currently focused on becoming strong at **backend engineering, problem solving, and system design**, while building real applications along the way.
+From designing an API to modelling the database, securing requests, and thinking about scalability, I like understanding the complete picture.
 
-<br>
+Currently focused on becoming stronger at:
 
-**I don't want to just use technology.  
-I want to understand it well enough to build with it.**
+```text
+Backend Engineering
+DSA & Problem Solving
+System Design
+Modern Frontend
+```
+
+> **Build things. Understand them. Improve them.**
 
 </td>
 
@@ -76,29 +90,29 @@ I want to understand it well enough to build with it.**
 
 ## 🛠️ TECH STACK
 
-### Backend
+### ☕ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb&theme=dark" height="48">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb&theme=dark" height="48" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Spring%20Boot-0B0F17?style=for-the-badge&logo=springboot&logoColor=6DB33F">
-<img src="https://img.shields.io/badge/Spring%20Security-0B0F17?style=for-the-badge&logo=springsecurity&logoColor=6DB33F">
-<img src="https://img.shields.io/badge/Hibernate-0B0F17?style=for-the-badge&logo=hibernate&logoColor=59666C">
-<img src="https://img.shields.io/badge/JWT-0B0F17?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Spring%20Boot-0B0F17?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring%20Security-0B0F17?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Hibernate-0B0F17?style=for-the-badge&logo=hibernate&logoColor=59666C" />
+<img src="https://img.shields.io/badge/JWT-0B0F17?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
 </p>
 
-### Frontend
+### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" height="48">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" height="48" />
 </p>
 
-### Tools & DevOps
+### 🧰 Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux&theme=dark" height="48">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux&theme=dark" height="48" />
 </p>
 
 ---
@@ -112,18 +126,20 @@ I want to understand it well enough to build with it.**
 
 ### 🛒 Production-Grade Ecommerce Backend
 
-A modular ecommerce backend built with **Spring Boot**, designed with security, clean architecture and scalability in mind.
+A modular ecommerce backend built with **Spring Boot**, designed with security, clean architecture, and scalability in mind.
 
-**Built with**
+#### Core Technologies
 
-`Java` `Spring Boot` `Spring Security` `JWT`
+`Java` · `Spring Boot` · `Spring Security` · `JWT`
 
-`MySQL` `JPA / Hibernate` `REST APIs` `DTO` `Validation`
+`MySQL` · `JPA / Hibernate` · `REST APIs`
+
+`DTO` · `Validation` · `Exception Handling`
 
 <br>
 
 <a href="https://github.com/sahil00salve-dotcom/02-Backend-Ecommerce">
-<img src="https://img.shields.io/badge/View%20Project-6C2BD9?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C2BD9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -135,24 +151,41 @@ A modular ecommerce backend built with **Spring Boot**, designed with security, 
 
 ## 🧠 DSA & PROBLEM SOLVING
 
-I'm practicing DSA with a **pattern-first approach**.
+I'm following a **pattern-first approach** to DSA.
 
-Instead of memorizing solutions, I'm trying to get better at recognizing **why a particular approach works** and applying it to unfamiliar problems.
+The goal isn't to memorize solutions.
+
+It's to recognize the underlying pattern, understand **why it works**, and apply it to unfamiliar problems.
 
 ### Patterns I'm working through
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers`
+<p>
 
-`Sliding Window` · `Stack / Queue` · `Binary Search`
+<img src="https://img.shields.io/badge/Arrays-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Strings-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Hashing-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Two%20Pointers-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Sliding%20Window-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack%20%2F%20Queue-6C2BD9?style=flat-square" />
 
-`Linked List` · `Trees` · `Graphs` · `Dynamic Programming`
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Binary%20Search-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Linked%20List-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Trees-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Graphs-6C2BD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Dynamic%20Programming-6C2BD9?style=flat-square" />
+
+</p>
 
 <br>
 
 <p align="center">
 
 <a href="https://leetcode.com/sahilsalve9">
-<img src="https://img.shields.io/badge/LeetCode-sahilsalve9-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LEETCODE%20%E2%86%92-sahilsalve9-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </p>
@@ -161,37 +194,57 @@ Instead of memorizing solutions, I'm trying to get better at recognizing **why a
 
 ## 📊 GITHUB
 
-<p align="center">
+<div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=sahil00salve-dotcom&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github">
+<a href="https://github.com/sahil00salve-dotcom">
+<img src="https://img.shields.io/badge/GitHub-sahil00salve--dotcom-6C2BD9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00salve-dotcom&layout=compact&hide_border=true&bg_color=0B0F17&title_color=A855F7&text_color=FFFFFF">
+<br><br>
 
-</p>
+<img src="https://img.shields.io/github/stars/sahil00salve-dotcom?style=for-the-badge&label=TOTAL%20STARS&color=6C2BD9&logo=github" />
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/sahil00salve-dotcom?style=for-the-badge&label=FOLLOWERS&color=6C2BD9&logo=github" />
 
-<img src="https://streak-stats.demolab.com?user=sahil00salve-dotcom&hide_border=true&background=0B0F17&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=FFFFFF">
+<img src="https://img.shields.io/github/commit-activity/y/sahil00salve-dotcom/02-Backend-Ecommerce?style=for-the-badge&label=COMMITS&color=6C2BD9&logo=git" />
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+**Building consistently. Learning continuously.**
+
+</div>
 
 ---
 
 ## 🔨 CURRENTLY BUILDING
 
-**Production-Grade Ecommerce Backend**
+### Production-Grade Ecommerce Backend
 
-Working on:
+Currently working on:
 
 - Backend architecture
 - Authentication & authorization
 - REST API design
 - Database relationships
 - Validation & exception handling
-- Security
+- Spring Security
 - Clean and maintainable code
+
+---
+
+## 📄 RESUME
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1YKDl3Q0_x7UFbuLe8Y3ROUyocVfWJoYn/view?usp=sharing">
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-6C2BD9?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -200,18 +253,24 @@ Working on:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sahil-salve">
-<img src="https://img.shields.io/badge/LinkedIn-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/sahilsalve9">
-<img src="https://img.shields.io/badge/LeetCode-6C2BD9?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LEETCODE-6C2BD9?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/sahil00salve-dotcom">
+<img src="https://img.shields.io/badge/GITHUB-6C2BD9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:sahil00salve@gmail.com">
-<img src="https://img.shields.io/badge/sahil00salve@gmail.com-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
+
+<br>
 
 <div align="center">
 
