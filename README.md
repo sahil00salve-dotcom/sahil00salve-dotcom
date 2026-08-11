@@ -1,354 +1,338 @@
-<!-- ========================================================= -->
-<!--                    SAHIL SALVE PROFILE                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Sahil Salve Banner"/>
+👋 Hey There, I'm Sahil Salve
 
-<br/>
+Java Full Stack Developer • Backend Builder • Problem Solver
 
-### Java Full Stack Developer | Backend Builder | Problem Solver
+<br>
 
-<br/>
+I tend to turn “What if?” into “Let’s build it.”
 
-> `> I tend to turn “What if?” into “Let’s build it.”`
+<br>
 
-<br/>
-
-<a href="https://linkedin.com/in/sahilsalve">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A8FF" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/sahilsalve9">
-  <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-&nbsp;
-<a href="https://github.com/sahil00salve-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-&nbsp;
-<a href="mailto:sahil00salve@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Soon-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=A855F7" />
-</a>
+ LinkedIn  •  LeetCode  •  GitHub  •  Gmail  •  Resume 
 
 </div>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                       ABOUT + FOCUS                       -->
-<!-- ========================================================= -->
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h2>⚡ ABOUT ME</h2>
+⚡ ABOUT ME
 
 Java Full Stack Developer with a passion for building scalable, efficient, and user-focused applications.
 
-<br/><br/>
+I enjoy solving complex problems and transforming ideas into real, useful software.
 
-I love solving complex problems 🚀 and transforming ideas into impactful solutions.
+<br>
 
-<br/><br/>
-
-<pre>
-"Code. Build. Break. Learn.
-Repeat."
-</pre>
+Code.
+Build.
+Break.
+Learn.
+Repeat.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🎯 CURRENT FOCUS</h2>
+🎯 CURRENT FOCUS
 
-🔹 🧩 Mastering DSA & Problem Solving
+🧩 Mastering DSA & Problem Solving
 
-<br/>
+☕ Building robust backend systems with Spring Boot
 
-🔹 ☕ Building robust backend systems with Spring Boot
+🏗️ Learning System Design & Scalable Architecture
 
-<br/>
+⚛️ Leveling up in React & Modern Frontend
 
-🔹 🏗️ Learning System Design & Scalable Architecture
-
-<br/>
-
-🔹 ⚛️ Leveling up in React & Modern Frontend
-
-<br/>
-
-🔹 🚀 Shipping real-world, production-grade projects
+🚀 Building production-grade projects
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                        TECH STACK                         -->
-<!-- ========================================================= -->
-
-<h2>🛠️ TECH STACK</h2>
+🛠️ TECH STACK
 
 <table>
 <tr>
-
 <td align="center" width="33%">
 
-<h3>BACKEND</h3>
+☕ BACKEND
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate&theme=dark" />
+Java
 
-<br/>
+Spring / Spring Boot
 
-Java • Spring • Spring Boot • Hibernate • MySQL
+Hibernate / JPA
+
+MySQL
+
+REST APIs
+
+Spring Security
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>FRONTEND</h3>
+⚛️ FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+React
 
-<br/>
+JavaScript
 
-React • JavaScript • HTML5 • CSS3 • Tailwind
+HTML5
+
+CSS3
+
+Tailwind CSS
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>TOOLS & DEVOPS</h3>
+🧰 TOOLS & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux&theme=dark" />
+Git
 
-<br/>
+GitHub
 
-Git • GitHub • Docker • AWS • Postman • Linux
+Docker
+
+AWS
+
+Postman
+
+Linux
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECT                       -->
-<!-- ========================================================= -->
+🚀 FEATURED PROJECT
 
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
-<h2>🚀 FEATURED PROJECT</h2>
+🛒 Production-Grade Ecommerce Backend 🔥
 
-<h3>🛒 Production-Grade Ecommerce Backend 🔥</h3>
+A secure, scalable and modular ecommerce backend built with industry best practices.
 
-A secure, scalable, and modular ecommerce backend built with industry best practices.
+Core Technologies
 
-<br/>
+Spring Boot Spring Security JWT
 
-<img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=flat-square&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring%20Security-0F172A?style=flat-square&logo=springsecurity&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/JPA%2FHibernate-0F172A?style=flat-square&logo=hibernate&logoColor=59666C"/>
+MySQL JPA/Hibernate REST APIs
 
-<br/>
+DTO Validation MapStruct
 
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/DTO-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Validation-0F172A?style=flat-square"/>
+<br>
 
-<br/><br/>
-
-<a href="https://github.com/sahil00salve-dotcom/02-Backend-Ecommerce">
-<img src="https://img.shields.io/badge/🔗%20View%20on%20GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+➡️ View Project on GitHub
 
 </td>
 
-<td width="35%" align="center">
+<td width="30%" align="center">
 
-<img src="./assets/project-art.png" width="100%" />
+🛒
+
+ECOMMERCE
+
+BACKEND
+
+<br><br>
+
+SECURE
+
+SCALABLE
+
+MODULAR
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+📚 WHAT I'M BUILDING TOWARDS
 
-<!-- ========================================================= -->
-<!--                       GITHUB STATS                        -->
-<!-- ========================================================= -->
+                 ┌─────────────────────────┐
+                 │    JAVA FULL STACK      │
+                 └────────────┬────────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+        BACKEND             DSA           FRONTEND
+             │                │                │
+             ▼                ▼                ▼
+       Spring Boot       Problem Solving     React
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                    SYSTEM DESIGN
+                              │
+                              ▼
+                 PRODUCTION-GRADE SYSTEMS
 
-<h2>📊 GITHUB STATS</h2>
+🧠 PROBLEM SOLVING
+
+I practice DSA consistently with a pattern-based approach.
+
+Current priorities
+
+Arrays & Strings
+
+Two Pointers
+
+Sliding Window
+
+Hashing
+
+Stack & Queue
+
+Binary Search
+
+Linked List
+
+Trees
+
+Graphs
+
+Dynamic Programming
+
+Goal
+
+Don't just memorize solutions. Understand the pattern behind them.
+
+➡️ My LeetCode Profile
+
+📈 GITHUB
 
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" align="center">
+💻 Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahil00salve-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=percentile" />
+Java              ███████████████
+JavaScript        █████████
+HTML              █████
+CSS               ████
+Other             █████
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00salve-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
+🔥 Consistency
+
+LEARN       →      BUILD
+  ↑                  ↓
+  └────── IMPROVE ←──┘
+
+Code every day.
+
+Build continuously.
+
+Improve relentlessly.
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                    GITHUB STREAK                          -->
-<!-- ========================================================= -->
-
-<h2>🔥 GITHUB STREAK</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahil00salve-dotcom&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="90%" />
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                       TROPHIES                            -->
-<!-- ========================================================= -->
-
-<h2>🏆 GITHUB TROPHIES</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahil00salve-dotcom&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6" width="90%" />
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                    RECENT ACTIVITY                        -->
-<!-- ========================================================= -->
-
-<h2>📝 RECENT ACTIVITY</h2>
+🧩 MY DEVELOPMENT PHILOSOPHY
 
 <table>
 <tr>
-
 <td align="center">
 
-🧑‍💻
+01
 
-<br/>
+THINK
 
-<b>Pushed to<br/>02-Backend-Ecommerce</b>
-
-<br/>
-
-<sub>Today</sub>
+Understand the problem before writing code.
 
 </td>
 
 <td align="center">
 
-🐛
+02
 
-<br/>
+BUILD
 
-<b>Fixed bugs &<br/>improved APIs</b>
-
-<br/>
-
-<sub>2 days ago</sub>
+Turn ideas into working systems.
 
 </td>
 
 <td align="center">
 
-✨
+03
 
-<br/>
+BREAK
 
-<b>Added new<br/>features</b>
-
-<br/>
-
-<sub>1 week ago</sub>
+Find weaknesses and improve them.
 
 </td>
 
 <td align="center">
 
-📚
+04
 
-<br/>
+LEARN
 
-<b>Solved DSA<br/>problems</b>
-
-<br/>
-
-<sub>1 week ago</sub>
+Every failure becomes knowledge.
 
 </td>
-
-<td align="center">
-
-🚀
-
-<br/>
-
-<b>Deployed &<br/>tested endpoints</b>
-
-<br/>
-
-<sub>2 weeks ago</sub>
-
-</td>
-
 </tr>
 </table>
 
-<br/>
+📝 RECENT ACTIVITY
 
-<!-- ========================================================= -->
-<!--                         QUOTE                             -->
-<!-- ========================================================= -->
+Activity
+
+Status
+
+🛒 Ecommerce Backend
+
+🔨 Building
+
+🧩 DSA
+
+🔥 Consistent
+
+☕ Spring Boot
+
+🚀 Deepening
+
+⚛️ React
+
+📚 Learning
+
+🏗️ System Design
+
+🎯 Exploring
+
+🚀 Production Projects
+
+🔥 In Progress
 
 <div align="center">
 
-<h2>❝</h2>
+「 What if? 」
 
-### What if today is the day that changes everything?
+Let's build it.
 
-### Keep building. Keep growing.
+<br>
 
-<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+Keep building. Keep learning. Keep growing.
 
-<br/><br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=sahil00salve-dotcom&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge" />
+© Sahil Salve
 
 </div>
