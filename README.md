@@ -1,40 +1,43 @@
 <div align="center">
 
-👋 Hey There, I'm Sahil Salve
+👋 Hey There! I'm Sahil Salve
 
-Java Full Stack Developer • Backend Builder • Problem Solver
+Java Full Stack Developer · Backend Builder · Problem Solver
 
-<br>
+I tend to turn "What if?" into "Let's build it."
 
-I tend to turn “What if?” into “Let’s build it.”
-
-<br>
-
- LinkedIn  •  LeetCode  •  GitHub  •  Gmail  •  Resume 
+<a href="https://www.linkedin.com/in/sahilsalve">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00A8FF" />
+</a>
+<a href="https://leetcode.com/sahilsalve9">
+  <img src="https://img.shields.io/badge/LeetCode-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://github.com/sahil00salve-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="mailto:sahil00salve@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0A0A0F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ⚡ ABOUT ME
 
-Java Full Stack Developer with a passion for building scalable, efficient, and user-focused applications.
+<table>
+<tr>
+<td width="55%">
 
-I enjoy solving complex problems and transforming ideas into real, useful software.
+I'm a Java Full Stack Developer focused on building scalable, efficient and user-focused applications.
 
-<br>
+I enjoy taking a difficult problem, breaking it down, understanding how the pieces fit together, and turning the idea into something real.
 
-Code.
-Build.
-Break.
-Learn.
-Repeat.
+"Code. Build. Break. Learn. Repeat."
+
+🚀 I like building things that move from idea → implementation → production.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%">
 
 🎯 CURRENT FOCUS
 
@@ -44,9 +47,9 @@ Repeat.
 
 🏗️ Learning System Design & Scalable Architecture
 
-⚛️ Leveling up in React & Modern Frontend
+⚛️ Leveling up in React & modern frontend
 
-🚀 Building production-grade projects
+🚀 Shipping real-world, production-grade projects
 
 </td>
 </tr>
@@ -54,285 +57,116 @@ Repeat.
 
 🛠️ TECH STACK
 
-<table>
-<tr>
-<td align="center" width="33%">
+☕ Backend
 
-☕ BACKEND
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb&theme=dark" />
+</p>
 
-Java
+⚛️ Frontend
 
-Spring / Spring Boot
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+</p>
 
-Hibernate / JPA
+🧰 Tools & DevOps
 
-MySQL
-
-REST APIs
-
-Spring Security
-
-</td>
-
-<td align="center" width="33%">
-
-⚛️ FRONTEND
-
-React
-
-JavaScript
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-</td>
-
-<td align="center" width="33%">
-
-🧰 TOOLS & DEVOPS
-
-Git
-
-GitHub
-
-Docker
-
-AWS
-
-Postman
-
-Linux
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux&theme=dark" />
+</p>
 
 🚀 FEATURED PROJECT
 
 <table>
 <tr>
+<td>
 
-<td width="70%" valign="top">
+🛒 Production-Grade Ecommerce Backend
 
-🛒 Production-Grade Ecommerce Backend 🔥
+A secure, scalable and modular ecommerce backend built with industry-oriented practices.
 
-A secure, scalable and modular ecommerce backend built with industry best practices.
+Stack
 
-Core Technologies
+Spring Boot Spring Security JWT MySQL JPA/Hibernate
 
-Spring Boot Spring Security JWT
+Also
 
-MySQL JPA/Hibernate REST APIs
+REST APIs DTO Validation Layered Architecture
 
-DTO Validation MapStruct
-
-<br>
-
-➡️ View Project on GitHub
-
-</td>
-
-<td width="30%" align="center">
-
-🛒
-
-ECOMMERCE
-
-BACKEND
-
-<br><br>
-
-SECURE
-
-SCALABLE
-
-MODULAR
-
-</td>
-
-</tr>
-</table>
-
-📚 WHAT I'M BUILDING TOWARDS
-
-                 ┌─────────────────────────┐
-                 │    JAVA FULL STACK      │
-                 └────────────┬────────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        BACKEND             DSA           FRONTEND
-             │                │                │
-             ▼                ▼                ▼
-       Spring Boot       Problem Solving     React
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    SYSTEM DESIGN
-                              │
-                              ▼
-                 PRODUCTION-GRADE SYSTEMS
-
-🧠 PROBLEM SOLVING
-
-I practice DSA consistently with a pattern-based approach.
-
-Current priorities
-
-Arrays & Strings
-
-Two Pointers
-
-Sliding Window
-
-Hashing
-
-Stack & Queue
-
-Binary Search
-
-Linked List
-
-Trees
-
-Graphs
-
-Dynamic Programming
-
-Goal
-
-Don't just memorize solutions. Understand the pattern behind them.
-
-➡️ My LeetCode Profile
-
-📈 GITHUB
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-💻 Development
-
-Java              ███████████████
-JavaScript        █████████
-HTML              █████
-CSS               ████
-Other             █████
-
-</td>
-
-<td align="center" width="50%">
-
-🔥 Consistency
-
-LEARN       →      BUILD
-  ↑                  ↓
-  └────── IMPROVE ←──┘
-
-Code every day.
-
-Build continuously.
-
-Improve relentlessly.
+<a href="https://github.com/sahil00salve-dotcom/02-Backend-Ecommerce">
+  <img src="https://img.shields.io/badge/🔗%20View%20on%20GitHub-6C2BD9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
 
-🧩 MY DEVELOPMENT PHILOSOPHY
+🧠 DSA & PROBLEM SOLVING
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sahilsalve9?theme=dark&font=Baloo&ext=heatmap" width="700"/>
+</p>
 
-01
+I practice DSA by focusing on patterns, not just individual problems.
 
-THINK
+Arrays → Strings → Two Pointers → Sliding Window → Hashing → Stack/Queue → Trees → Graphs → DP
 
-Understand the problem before writing code.
+📊 GITHUB STATS
 
-</td>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahil00salve-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F17&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil00salve-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F17&title_color=A855F7&text_color=E5E7EB" />
+</p>
 
-<td align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahil00salve-dotcom&theme=tokyonight&hide_border=true&background=0B0F17&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+</p>
 
-02
+📈 CONTRIBUTION GRAPH
 
-BUILD
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil00salve-dotcom&bg_color=0B0F17&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
 
-Turn ideas into working systems.
+🔥 RECENT ACTIVITY
 
-</td>
+🚀 Building        → Production-grade Ecommerce Backend
+🧩 Practicing      → DSA & interview patterns
+☕ Improving       → Spring Boot & Spring Security
+🏗️ Learning        → System Design & scalable architecture
+⚛️ Exploring       → React & modern frontend
 
-<td align="center">
-
-03
-
-BREAK
-
-Find weaknesses and improve them.
-
-</td>
-
-<td align="center">
-
-04
-
-LEARN
-
-Every failure becomes knowledge.
-
-</td>
-</tr>
-</table>
-
-📝 RECENT ACTIVITY
-
-Activity
-
-Status
-
-🛒 Ecommerce Backend
-
-🔨 Building
-
-🧩 DSA
-
-🔥 Consistent
-
-☕ Spring Boot
-
-🚀 Deepening
-
-⚛️ React
-
-📚 Learning
-
-🏗️ System Design
-
-🎯 Exploring
-
-🚀 Production Projects
-
-🔥 In Progress
+🎯 THE MINDSET
 
 <div align="center">
 
-「 What if? 」
-
-Let's build it.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+What if today is the day that changes everything?
 
 Keep building. Keep learning. Keep growing.
 
-<br>
-
-© Sahil Salve
+while (alive) {
+    learn();
+    code();
+    build();
+    repeat();
+}
 
 </div>
+
+📫 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahilsalve">
+    <img src="https://img.shields.io/badge/LinkedIn-6C2BD9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/sahilsalve9">
+    <img src="https://img.shields.io/badge/LeetCode-6C2BD9?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:sahil00salve@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6C2BD9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Dream it. Build it.</i>
+</p>
